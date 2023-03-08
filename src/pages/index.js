@@ -19,7 +19,7 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <p>My name is</p>
+          <p>My name is</p><br></br>
           <p>Jason Yale.</p>
           </div>
         
